@@ -1,5 +1,5 @@
 ---
-title: "MAIE5531 GenAI and LLMs (Spring 2026)"
+title: "MAIE 5531 GenAI and LLMs (Spring 2026)"
 collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/2026-spring-maie5531
@@ -10,9 +10,12 @@ location: "HK, China"
 
 Course Website
 ======
+TBD
 
 Course Outline
 ======
+TBD
 
 Grading
 ======
+TBD
