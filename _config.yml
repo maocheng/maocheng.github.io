@@ -23,14 +23,14 @@ repository               : "maocheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_maocheng.png"
-  name             : "Your Sidebar Name"
+  avatar           : "idphoto_MaochengLi.jpg"
+  name             : "Maocheng (Michael) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lecturer at CSE of HKUST"
+  location         : "HK, China"
+  employer         : "HKUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "maocheng@ust.hk" 
 
   # Academic websites
   academia         : # URL
