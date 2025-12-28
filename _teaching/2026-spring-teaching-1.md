@@ -7,15 +7,3 @@ venue: "HKUST, CSE"
 date: 2026-02-02
 location: "HK, China"
 ---
-
-Course Website
-======
-TBD
-
-Course Outline
-======
-TBD
-
-Grading
-======
-TBD
